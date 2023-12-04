@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "pouria": {
+      "hosting": {
+        "weather-app": [
+          "pouria"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "pouria"
+  }
+}
